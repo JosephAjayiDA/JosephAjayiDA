@@ -18,9 +18,11 @@ Automate workflows with Python scripts.
 ### 📂 Projects
 Here are some of my selected works:
 
-KickStarter Report: A Power BI dashboard analyzing the success and failure rates of over 375,000 kickstarter projects. ([Link to repo])
-Financial Consumer Complaints Analysis: Python script for analysing consumer complaints on financial products & services for Bank of America from 2017 to 2023. ([Link to repo])
-Video Games Sales Analysis: SQL queries for uncovering trends and insights into the gaming industries perfomance. ([Link to repo])
+**KickStarter Report:** A Power BI dashboard analyzing the success and failure rates of over 375,000 kickstarter projects. ([Link to repo])
+
+**Financial Consumer Complaints Analysis:** Python script for analysing consumer complaints on financial products & services for Bank of America from 2017 to 2023. ([Link to repo])
+
+**Video Games Sales Analysis:** SQL queries for uncovering trends and insights into the gaming industries perfomance. ([Link to repo])
 
 ### 🌍 About Me
 
