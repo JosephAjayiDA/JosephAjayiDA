@@ -8,7 +8,7 @@ Business Intelligence: Power BI, Tableau
 Databases: SQL
 Other: Data Cleaning, Storytelling with Data
 
-###🌟 What I Do
+### 🌟 What I Do
 
 Transform complex datasets into clear, impactful visualizations.
 Build interactive dashboards to support decision-making.
@@ -16,16 +16,17 @@ Write efficient SQL queries to extract and manipulate data.
 Automate workflows with Python scripts.
 
 ### 📂 Projects
+Here are some of my selected works:
 
-[Project 1 Name]: A Power BI dashboard analyzing [describe briefly, e.g., sales trends in retail data]. ([Link to repo])
-[Project 2 Name]: Python script for [e.g., automating data cleaning in Excel files]. ([Link to repo])
-[Project 3 Name]: SQL queries and Tableau visualizations for [e.g., customer segmentation]. ([Link to repo])
+KickStarter Report: A Power BI dashboard analyzing the success and failure rates of over 375,000 kickstarter projects. ([Link to repo])
+Financial Consumer Complaints Analysis: Python script for analysing consumer complaints on financial products & services for Bank of America from 2017 to 2023. ([Link to repo])
+Video Games Sales Analysis: SQL queries for uncovering trends and insights into the gaming industries perfomance. ([Link to repo])
 
 ### 🌍 About Me
 
-📍 Based in Lagos, Nigeria
+📍 Based in Ogun, Nigeria
 💡 Always learning new ways to leverage data for impact
-📫 Reach me at: [your.email@example.com] | [LinkedIn URL] | [Twitter/X Handle]
+📫 Reach me at: josephajayii37@gmail.com | [LinkedIn URL]
 
 ### 🚀 Current Goals
 
