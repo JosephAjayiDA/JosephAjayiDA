@@ -2,7 +2,7 @@
 
 I'm a **Data Analyst** based in Ogun, Nigeria, with a passion for turning raw data into actionable insights. I specialize in uncovering trends, building visualizations, and solving business problems using data-driven approaches.
 
-🔧 Tools & Technologies
+### 🔧 Tools & Technologies
 Data Analysis: Excel, Python (Pandas, NumPy)
 Business Intelligence: Power BI, Tableau
 Databases: SQL
